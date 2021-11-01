@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746299389540",
+    "firebase_url": "https://healthy-care-d07fa.firebaseio.com",
+    "project_id": "healthy-care-d07fa",
+    "storage_bucket": "healthy-care-d07fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746299389540:android:7255d71ec3ec60be",
+        "android_client_info": {
+          "package_name": "com.example.hesham.healthycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746299389540-i46fj1tverb854o3g6pd34d8pnvl4vfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1eioWx_jsXz_PQJKusY2VaiJxLgcrMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746299389540-i46fj1tverb854o3g6pd34d8pnvl4vfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

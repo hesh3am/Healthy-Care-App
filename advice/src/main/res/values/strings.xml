@@ -1,0 +1,51 @@
+<resources>
+    <!-- Tour around -->
+    <string name="app_name">Healthy Care</string>
+
+    <string name="Healthyfood">Healthy Food</string>
+
+    <string name="Traning">Traning</string>
+
+    <string name="Bodycare">Bodycare</string>
+
+    <!-- -->   <!-- -->   <!-- -->   <!-- -->   <!-- -->
+    <!-- Name-->
+
+
+    <string name="Vegetables">Vegetables</string>
+    <string name="Fruit">Fruit</string>
+    <string name="WholeGrains">Whole Grains</string>
+    <string name="Protein">Protein</string>
+
+
+    <string name="aerobic">Aerobic</string>
+    <string name="strength">Strength</string>
+    <string name="balance">Balance</string>
+    <string name="flexibility">Flexibility</string>
+
+    <string name="turmeric">Turmeric</string>
+    <string name="Ginseng">Ginseng</string>
+    <string name="LemonBalm">Lemon Balm</string>
+    <string name="Sage">Sage</string>
+
+
+    <!-- -->   <!-- -->   <!-- -->   <!-- -->   <!-- -->
+    <!-- description-->
+
+    <string name="des_Vegetables">You should consume 2 1/2 cups of vegetables per day according to the U.S. Department of Agriculture. Include dark leafy greens, orange and red vegetables and other dark-colored produce. An example of a serving is 1 cup of leafy vegetables or 1/2 cup raw or cooked vegetables. Add flavors such as lemon, vinegar or sodium-free spices for flavor without adding fat or sodium. Sneak vegetables into meals and have them raw for a snack.</string>
+    <string name="des_Fruit">Americans dont consume enough fiber, potassium, vitamin A or vitamin C according to the U.S. Department of Agriculture. Fruit is a good source of all of these nutrients to help meet your needs. Two cups of fruit, which is equivalent to 4 servings, are recommended per day. A serving of fruit is 1/2 cup fresh fruit, 1/4 cup dried fruit or 1/2 cup of 100 percent fruit juice. Focus on fresh fruit, which does not have any added sweeteners. Excellent choices include berries, apples and bananas.</string>
+    <string name="des_WholeGrains">At least half of the grains you eat should be whole grains. Whole grains do not have their bran and germ removed like refined grains do. The refining process removes many nutrients making whole grains a better choice. Six servings of grain products are recommended per day. Smart choices include oatmeal, whole-wheat bread, quinoa, barley, whole-wheat pasta and crackers.</string>
+    <string name="des_Protein">Focus on lean protein sources such as boneless skinless chicken breasts, beans, tofu, fish and eggs. Five and half ounces of protein equivalents are recommended per day. One egg, 1 tablespoon of peanut butter, 1/4 cup of beans or 1 ounce of meat counts as an ounce. For snacks, include a protein-rich food to help keep you full such as peanut butter with an apple or low-fat string cheese with whole-wheat crackers.</string>
+
+    <string name="des_aerobic">Aerobic exercises, such as running, swimming or dancing, are activities that work your cardiovascular system — they get your heart rate up and make you breathe harder. This type of exercise can reduce the risk of cardiovascular disease, type 2 diabetes and high blood pressure, and may even lower the risk of cancer.</string>
+    <string name="des_strength">Strength exercises, such as weight lifting, push-ups and crunches, work your muscles by using resistance (like a dumbbell or your own body weight.) This type of exercise increases lean muscle mass, which is particularly important for weight loss, because lean muscle burns more calories than other types of tissue.</string>
+    <string name="des_balance">Balance exercises improve your ability to control and stabilize your bodys position. This type of exercise is particularly important for older adults, because balance gets worse with age.But balance exercises can be beneficial for everyone, including people who have gained or lost a lot of weight or those who become pregnant, which can throw off your center of gravity, Drew said. </string>
+    <string name="des_flexibility">Flexibility exercises stretch your muscles and may improve your range of motion at your joints. They can improve your flexibility, and reduce your risk of injury during sports and other activities.</string>
+
+
+    <string name="des_turmeric">Turmeric is a spice long used in Ayurveda. It contains a compound called curcumin, which has antioxidant and anti-inflammatory effects (two factors that may benefit brain health and overall health).Preliminary research suggests that turmeric may boost brain health and stave off Alzheimers disease by clearing the brain turmeric may shield brain health by inhibiting the breakdown of nerve cells in the brain.</string>
+    <string name="des_Ginseng">One the most popular plants in herbal medicine, ginseng contains anti-inflammatory chemicals called ginsenosides. In preliminary studies, scientists have observed that ginsenosides may help reduce brain levels of beta-amyloid. Its also sometimes taken to fight Alzheimers disease.</string>
+    <string name="des_LemonBalm">An herb often taken in tea form and frequently used to ease anxiety and insomnia, lemon balm may help improve cognitive function. For a study published in the Journal of Neurology, Neurosurgery, and Psychiatry in 2003, 42 patients with mild to moderate Alzheimers disease took either a placebo or lemon balm extract for four months. At the end of the study, those given lemon balm showed a significantly greater improvement in cognitive function.</string>
+    <string name="des_Sage">A spice known for its pungent scent, sage may possess memory-enhancing properties, according to a small study published in Pharmacology, Biochemistry, and Behavior in 2003. Sage might also aid in the treatment of Alzheimers disease. In fact, a research review published in Evidence-Based Complementary and Alternative Medicine identified sage as one of the several herbs that may be beneficial to Alzheimers patients. The other herbs included lemon balm and the Chinese herbs yi-gan san and ba wei di huang wan.</string>
+
+</resources>

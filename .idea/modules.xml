@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Healthy Care.iml" filepath="$PROJECT_DIR$/Healthy Care.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advice/advice.iml" filepath="$PROJECT_DIR$/advice/advice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarm_food/alarm_food.iml" filepath="$PROJECT_DIR$/alarm_food/alarm_food.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarm_medic/alarm_medic.iml" filepath="$PROJECT_DIR$/alarm_medic/alarm_medic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarm_push/alarm_push.iml" filepath="$PROJECT_DIR$/alarm_push/alarm_push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarm_sleep/alarm_sleep.iml" filepath="$PROJECT_DIR$/alarm_sleep/alarm_sleep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmnotfication/alarmnotfication.iml" filepath="$PROJECT_DIR$/alarmnotfication/alarmnotfication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/push_trainning/push_trainning.iml" filepath="$PROJECT_DIR$/push_trainning/push_trainning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz/quiz.iml" filepath="$PROJECT_DIR$/quiz/quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step_counter/step_counter.iml" filepath="$PROJECT_DIR$/step_counter/step_counter.iml" />
+    </modules>
+  </component>
+</project>

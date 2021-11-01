@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Healthy Care</string>
+
+    <string name="emailEdit">Email</string>
+    <string name="passwordEdit">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="signUp">Create Account</string>
+    <string name="loginText">Login</string>
+    <string name="signOutText">Sign Out</string>
+    <string name="SignUPText">Sign Up</string>
+    <string name="nameEdit">Name</string>
+    <string name="confirmPasswordEdit">Confirm Password</string>
+    <string name="forgotPasswordText">Forgot Password</string>
+    <string name="resetPasswordText">To reset password, enter your email, press the button and check your email for further instructions</string>
+    <string name="resetPasswordBtn">Reset Password</string>
+    <string name="returnToLoginTextView">Return to Login Screen</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About Us</string>
+    <string name="whathealthycareapp">healthy care application that offering a care to the user life by put the the user under many test such as eye test , and calculate his activities such as calories , food ,water and sleeping time requirement , make a fitness target and force the user to cover this target , this application give the user many advices to make his life more healthy.</string>
+
+
+    <string name="very_severely_underweight">very_severely</string>
+    <string name="severely_underweight">severely</string>
+    <string name="underweight">ubderweight</string>
+    <string name="Normal">normal</string>
+    <string name="overweight">overweight</string>
+    <string name="obese_class_i">obese</string>
+    <string name="obese_class_ii">obese_class</string>
+    <string name="obese_class_iii">obese_class_ii</string>
+</resources>

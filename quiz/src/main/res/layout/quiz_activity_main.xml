@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".QuizMainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@color/colorPrimary"
+        tools:srcCompat="@tools:sample/avatars" />
+    <Button
+        android:id="@+id/b_ans1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/b_ans2"
+        android:background="@color/colorAccent"
+        android:text="" />
+
+    <Button
+        android:id="@+id/b_ans2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorAccents"
+        android:text="" />
+
+    <Button
+        android:id="@+id/b_ans3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorAccentss"
+        android:text="" />
+
+    <Button
+        android:id="@+id/b_ans4"
+        android:layout_width="match_parent"
+        android:background="@color/colorAccentsss"
+        android:layout_height="wrap_content"
+        android:text="" />
+</LinearLayout>

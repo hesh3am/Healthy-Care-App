@@ -1,0 +1,1 @@
+include ':app', ':step_counter', ':quiz', ':advice', ':alarmnotfication', ':push_trainning', ':alarm_medic', ':alarm_sleep', ':alarm_food', ':alarm_push'

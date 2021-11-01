@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.hesham.healthycare.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/sTep_counter"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="15dp"
+                android:background="@color/colorPrimary"
+                android:drawableTop="@mipmap/running"
+                android:onClick="sTep_counter"
+                android:padding="10dp"
+                android:text="sTep Counter"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/Alarm"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="15dp"
+                android:background="@color/colorPrimaryDark"
+                android:drawableTop="@mipmap/bell"
+                android:onClick="Alarm"
+                android:padding="10dp"
+                android:text="Alarm"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/push_calculatr"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="15dp"
+                android:background="@color/colorAccent"
+                android:drawableTop="@mipmap/pushups"
+                android:onClick="push_calculatr"
+                android:padding="10dp"
+                android:text="push Trainning"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/Advice"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="15dp"
+                android:background="@color/colorPrimary"
+                android:drawableTop="@mipmap/advice"
+                android:onClick="Advice"
+                android:padding="10dp"
+                android:text="Advice"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/Quiz"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="15dp"
+                android:background="@color/colorAccent"
+                android:drawableTop="@mipmap/eye"
+                android:onClick="Quiz"
+                android:padding="10dp"
+                android:text="Test"
+                android:textSize="30sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

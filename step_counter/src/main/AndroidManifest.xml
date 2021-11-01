@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.step_counter">
+
+    <application>
+        <activity android:name=".StepCounterMainActivity"></activity>
+    </application>
+
+</manifest>
