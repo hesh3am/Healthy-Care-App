@@ -46,7 +46,7 @@ public class StepCounterMainActivity extends AppCompatActivity implements Sensor
         super.onPause();
         running = false;
     }
-//sss
+//ssszxczxczxc
     public void reset(View view) {
         Tacker.callOnIncrement();
         Tacker.reset();
