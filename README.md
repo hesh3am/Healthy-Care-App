@@ -3,9 +3,9 @@ Video of HealthyCare APP :
 https://www.youtube.com/watch?v=Gif5Vq92_Wk     
 Presentation 
 
-Push UP Trinning 
 https://prezi.com/view/XJVmzQ5KD4WVgZJAAPGO/?fbclid=IwAR2xnj9YSpPCZ9RclnLCK3ycpwQkQlpSPXjzlnFairZhZeOb5k8JPR49gZY
 
+Push UP Trinning 
 
 ![Screenshot_20220222-222414_Healthy Care](https://user-images.githubusercontent.com/34006266/155216536-f22d9251-b9dc-4418-ac37-a2496c862986.jpg)
 
