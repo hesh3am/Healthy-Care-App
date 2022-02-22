@@ -24,9 +24,17 @@ ALARM
 
 ![Screenshot_20220222-222427_Healthy Care](https://user-images.githubusercontent.com/34006266/155216642-145c6fef-7b7c-4059-a16f-2e248f85edbf.jpg)
 
+
+
 ![Screenshot_20220222-222437_Healthy Care](https://user-images.githubusercontent.com/34006266/155216665-f26a8c0c-7775-4222-989d-9f93208b6022.jpg)
 
+Foot Step Counter
+
 ![Screenshot_20220222-222534_Healthy Care](https://user-images.githubusercontent.com/34006266/155216696-d11948fa-7bc3-4167-a5e7-f5896c20e43c.jpg)
+
+HEALTHY CARE APP DESCRIPTION
+
+
 
 ![Screenshot_20220222-222542_Healthy Care (1)](https://user-images.githubusercontent.com/34006266/155216712-d4f8ee78-3025-417f-bba0-1b0aefe079a4.jpg)
 
